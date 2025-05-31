@@ -77,6 +77,6 @@ jupyter
 
 ## Author
 
-**[Your Name]**  
-- GitHub: [your-username](https://github.com/your-username)  
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)  
+**Vedant Sharma**  
+- GitHub: V-cell6 
+
