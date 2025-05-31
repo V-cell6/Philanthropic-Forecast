@@ -74,9 +74,3 @@ jupyter
 - Optimizing AdaBoost improves both accuracy and F0.5 score, clearly surpassing the baseline.
 
 ---
-
-## Author
-
-**Vedant Sharma**  
-- GitHub: V-cell6 
-
