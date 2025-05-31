@@ -1,7 +1,6 @@
 # 🎯 Sponsor Forecaster
 
 I built a model to predict whether someone earns over $50,000 a year using data from the 1994 U.S. Census. The goal is to help organizations (like charities) identify likely sponsors by estimating income from publicly available features.
----
 
 ## 📋 Data Source
 
