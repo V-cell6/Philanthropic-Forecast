@@ -10,7 +10,7 @@ I built a model to predict whether someone earns over $50,000 a year using data 
   - Removed rows with missing or malformed entries
 ---
 
-## 🔍 What I Did
+##  What I Did
 
 1. **Baseline (Naive Predictor):**  
    - Always predicts “> $50K”  
@@ -52,7 +52,7 @@ I built a model to predict whether someone earns over $50,000 a year using data 
 
 
 
-## 🛠️ Dependencies
+##  Dependencies
 
 ```
 numpy
@@ -65,7 +65,7 @@ jupyter
 
 ---
 
-## 📈 Key Takeaways
+## Key Takeaways
 
 - A naive predictor (always “> $50K”) is a useful baseline but performs poorly in precision.  
 - AdaBoost is my top choice: it gives the highest F0.5 score and maintains a fast inference time.  
@@ -73,7 +73,7 @@ jupyter
 
 ---
 
-## 👤 Author
+## Author
 
 **[Your Name]**  
 - GitHub: [your-username](https://github.com/your-username)  
