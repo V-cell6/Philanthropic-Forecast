@@ -50,6 +50,8 @@ I built a model to predict whether someone earns over $50,000 a year using data 
 ## Trained Model Performance Metrics Visualisations
 
 
+![image](https://github.com/user-attachments/assets/c6f3ca77-57b4-4403-87d6-97c46b0c7cf7)
+
 
 
 ##  Dependencies
